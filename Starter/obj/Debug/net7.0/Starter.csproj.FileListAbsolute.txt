@@ -12,3 +12,17 @@ E:\CsharpProjects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Star
 E:\CsharpProjects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.pdb
 E:\CsharpProjects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
 E:\CsharpProjects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\ref\Starter.dll
+E:\CsharpProjects\c-sharp_guided-project\starter\bin\Debug\net7.0\Starter.exe
+E:\CsharpProjects\c-sharp_guided-project\starter\bin\Debug\net7.0\Starter.deps.json
+E:\CsharpProjects\c-sharp_guided-project\starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+E:\CsharpProjects\c-sharp_guided-project\starter\bin\Debug\net7.0\Starter.dll
+E:\CsharpProjects\c-sharp_guided-project\starter\bin\Debug\net7.0\Starter.pdb
+E:\CsharpProjects\c-sharp_guided-project\starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+E:\CsharpProjects\c-sharp_guided-project\starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+E:\CsharpProjects\c-sharp_guided-project\starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+E:\CsharpProjects\c-sharp_guided-project\starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+E:\CsharpProjects\c-sharp_guided-project\starter\obj\Debug\net7.0\Starter.dll
+E:\CsharpProjects\c-sharp_guided-project\starter\obj\Debug\net7.0\refint\Starter.dll
+E:\CsharpProjects\c-sharp_guided-project\starter\obj\Debug\net7.0\Starter.pdb
+E:\CsharpProjects\c-sharp_guided-project\starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+E:\CsharpProjects\c-sharp_guided-project\starter\obj\Debug\net7.0\ref\Starter.dll
