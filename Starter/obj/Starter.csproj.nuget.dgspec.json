@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CsharpProjects\\c-sharp_guided-project\\starter\\Starter.csproj": {}
+    "E:\\CsharpProjects\\c-sharp_guided-project\\Starter\\Starter.csproj": {}
   },
   "projects": {
-    "E:\\CsharpProjects\\c-sharp_guided-project\\starter\\Starter.csproj": {
+    "E:\\CsharpProjects\\c-sharp_guided-project\\Starter\\Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CsharpProjects\\c-sharp_guided-project\\starter\\Starter.csproj",
+        "projectUniqueName": "E:\\CsharpProjects\\c-sharp_guided-project\\Starter\\Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "E:\\CsharpProjects\\c-sharp_guided-project\\starter\\Starter.csproj",
+        "projectPath": "E:\\CsharpProjects\\c-sharp_guided-project\\Starter\\Starter.csproj",
         "packagesPath": "C:\\Users\\NH PC\\.nuget\\packages\\",
-        "outputPath": "E:\\CsharpProjects\\c-sharp_guided-project\\starter\\obj\\",
+        "outputPath": "E:\\CsharpProjects\\c-sharp_guided-project\\Starter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NH PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
