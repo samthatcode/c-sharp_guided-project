@@ -1,0 +1,15 @@
+E:\CsharpProjects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\bin\Debug\net7.0\Final.exe
+E:\CsharpProjects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\bin\Debug\net7.0\Final.deps.json
+E:\CsharpProjects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\bin\Debug\net7.0\Final.runtimeconfig.json
+E:\CsharpProjects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\bin\Debug\net7.0\Final.dll
+E:\CsharpProjects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\bin\Debug\net7.0\Final.pdb
+E:\CsharpProjects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\obj\Debug\net7.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+E:\CsharpProjects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\obj\Debug\net7.0\Final.AssemblyInfoInputs.cache
+E:\CsharpProjects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\obj\Debug\net7.0\Final.AssemblyInfo.cs
+E:\CsharpProjects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\obj\Debug\net7.0\Final.csproj.CoreCompileInputs.cache
+E:\CsharpProjects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\obj\Debug\net7.0\Final.dll
+E:\CsharpProjects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\obj\Debug\net7.0\refint\Final.dll
+E:\CsharpProjects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\obj\Debug\net7.0\Final.pdb
+E:\CsharpProjects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\obj\Debug\net7.0\Final.genruntimeconfig.cache
+E:\CsharpProjects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\obj\Debug\net7.0\ref\Final.dll
+E:\CsharpProjects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\obj\Debug\net7.0\Final.csproj.AssemblyReference.cache
